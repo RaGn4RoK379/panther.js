@@ -5,7 +5,7 @@ panther.js is a powerful [Node.js](https://nodejs.org/) module that allows you t
 <li>Predictable abstractions</li>
 <li>Performant</li>
 <li>100% coverage of the Discord API</li>
-<li>Like <a href="https://www.npmjs.com/package/panther.js">panther.js</a>, but with pre-built things!</li>
+<li>Like <a href="https://www.npmjs.com/package/discord.js">discord.js</a>, but with pre-built things!</li>
 
 # Installation
 <p>

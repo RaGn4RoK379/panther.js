@@ -5,7 +5,7 @@ panther.js is a powerful [Node.js](https://nodejs.org/) module that allows you t
 <li>Predictable abstractions</li>
 <li>Performant</li>
 <li>100% coverage of the Discord API</li>
-<li>Like <a href="https://www.npmjs.com/package/discord.js">discord.js</a>, but with pre-built things!</li>
+<li>Like <a href="https://www.npmjs.com/package/discord.js">discord.js</a>, but with pre-built things!</li><br>
 
 # Installation
 <p>
@@ -20,4 +20,4 @@ With voice support (<a href="https://www.npmjs.com/package/opusscript" rel="nofo
 
 # Help
 <p>If you don't understand something in the documentation, you are experiencing problems, or you just need a gentle
-nudge in the right direction, please don't hesitate to join our official <a href="https://discord.gg/FXCZDjh6FP" rel="nofollow">Panther.js Server</a>.</p>
+nudge in the right direction, please don't hesitate to join our official <a href="https://discord.gg/FXCZDjh6FP" rel="nofollow">Panther.js Server</a>.</p><br>
